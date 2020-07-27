@@ -4,7 +4,7 @@
       :show-close-button="showCloseButton"
       :title="title"
       :image-url="titleImageUrl"
-      :on-close="onClose"
+      :onClose="onClose"
       :colors="colors"
       :disable-user-list-toggle="disableUserListToggle"
       @userList="handleUserListToggle"
